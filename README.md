@@ -1,4 +1,6 @@
-# Fusebox module import issue
+# [Fusebox module import issue](https://github.com/fuse-box/fuse-box/issues/541)
+
+![fuse-box-xstream-issue](https://cloud.githubusercontent.com/assets/736697/26168009/17d4e65c-3b52-11e7-8406-9c567a1fbebb.gif)
 
 1) `yarn`
 2) `yarn watch`
