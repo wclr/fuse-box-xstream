@@ -12,7 +12,7 @@ const fuse = FuseBox.init({
 fuse
   .dev({
     root: '.',
-    port
+    port  
   }, (server) => {
     server.httpServer.app.use(express.static(join(__dirname)));
     server.httpServer.app.get('*', function (req: any, res: any) {      
